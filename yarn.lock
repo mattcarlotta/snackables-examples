@@ -1429,10 +1429,10 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
-snackables@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/snackables/-/snackables-2.0.1.tgz#4f18d05572dfaa54fde5b8a924a5032c9947b6f2"
-  integrity sha512-azKrIPvk0tNBGpbwjn8OBKZ4PBSTOGHbYJN18mFzFgNCf08bwO19Dw9VMOrdIHy+vaBCTrFvDsJ4F4L+UYy20w==
+snackables@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/snackables/-/snackables-2.0.2.tgz#60f5c1bf7d3ac6cff857ddd92729982670ca34c1"
+  integrity sha512-n79afbJjEM+HZQEohdHSBfb7znHFApSm/ksZyh5Xw5fFnf+cHV+oK/zqUuD/NSNSPhVhEZsKnurH/8ApxPmSqw==
 
 source-map-support@^0.5.17:
   version "0.5.19"
