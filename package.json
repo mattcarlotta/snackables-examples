@@ -54,6 +54,6 @@
     "typescript": "^4.0.5"
   },
   "dependencies": {
-    "snackables": "^2.0.2"
+    "snackables": "^2.0.3"
   }
 }
