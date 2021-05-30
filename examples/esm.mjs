@@ -1,4 +1,4 @@
-import { assign, parse } from "snackables/esm/index.mjs";
+import { assign, parse } from "snackables/esm";
 
 const extracted = parse(Buffer.from("ASSIGN=true"));
 
