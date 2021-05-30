@@ -20,6 +20,8 @@
     "ex:preloaddir": "ENV_DIR=examples ENV_LOAD=.env.base,.env.test ENV_DEBUG=true ts-node -r snackables examples/preloaddir.ts",
     "ex:override": "ts-node examples/override.ts",
     "ex:strpaths": "ts-node examples/strpaths.ts",
+    "ex:submodule": "ts-node examples/submodule.ts",
+    "ex:submoduleesm": "node examples/submoduleesm.mjs",
     "lint": "eslint ./ --ext .ts,.js"
   },
   "repository": {
@@ -53,7 +55,7 @@
     "eslint-plugin-jest": "^24.3.6",
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "^2.3.0",
-    "snackables": "^3.0.8",
+    "snackables": "^3.0.10",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
   },

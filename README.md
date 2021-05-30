@@ -47,4 +47,5 @@ Run examples by using one of the commands below:
 | `ex:preloadcustompaths` | Runs example preloading Envs from custom paths using `ENV_LOAD`. |
 | `ex:preloaddir`         | Runs example preloading using `ENV_DIR`.                         |
 | `ex:override`           | Runs example overrides Envs in `process.env`.                    |
-| `ex:strpaths`           | Runs example using string paths.                                 |
+| `ex:submodule`          | Runs example importing submodules in ts.                         |
+| `ex:submoduleesm`       | Runs example importing submodules in mjs.                        |
