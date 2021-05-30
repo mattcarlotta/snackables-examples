@@ -9,6 +9,7 @@
     "ex:basic": "ENV_DIR=examples ENV_LOAD=.env.test ENV_DEBUG=true ts-node examples/basic.ts",
     "ex:config": "ts-node examples/config.ts",
     "ex:commandline": "ENV_DIR=examples ENV_LOAD=.env.command ENV_DEBUG=true ts-node examples/commandline.ts",
+    "ex:esm": "node examples/esm.mjs",
     "ex:interpolate": "ts-node examples/interpolate.ts",
     "ex:load": "ts-node examples/load.ts",
     "ex:loadconfig": "LOAD_CONFIG=test ts-node -r snackables examples/loadconfig.ts",
@@ -52,7 +53,7 @@
     "eslint-plugin-jest": "^24.3.6",
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "^2.3.0",
-    "snackables": "^3.0.3",
+    "snackables": "^3.0.5",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
   },

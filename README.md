@@ -37,6 +37,7 @@ Run examples by using one of the commands below:
 | `ex:basic`              | Runs example for basic usage.                                    |
 | `ex:config`             | Runs example for using `config`.                                 |
 | `ex:commandline`        | Runs example for command line substitutions.                     |
+| `ex:esm`                | Runs esm example.                                                |
 | `ex:interpolate`        | Runs example for interpolate Envs.                               |
 | `ex:load`               | Runs example using `load` and `config`.                          |
 | `ex:loadconfig`         | Runs example preloading using `LOAD_CONFIG`.                     |
