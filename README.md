@@ -33,9 +33,13 @@ Run examples by using one of the commands below:
 | `yarn <command>`        | Description                                                      |
 | ----------------------- | ---------------------------------------------------------------- |
 | `ex:arrpaths`           | Runs example for using `config`'s `paths` as an array.           |
+| `ex:assign`             | Runs example for using `assign` with `parse`.                    |
 | `ex:basic`              | Runs example for basic usage.                                    |
 | `ex:config`             | Runs example for using `config`.                                 |
 | `ex:commandline`        | Runs example for command line substitutions.                     |
+| `ex:interpolate`        | Runs example for interpolate Envs.                               |
+| `ex:load`               | Runs example using `load` and `config`.                          |
+| `ex:loadconfig`         | Runs example preloading using `LOAD_CONFIG`.                     |
 | `ex:parse`              | Runs example using `parse`.                                      |
 | `ex:paths`              | Runs example using `config`'s `paths` argument                   |
 | `ex:preload`            | Runs example preloading Envs.                                    |
@@ -43,4 +47,3 @@ Run examples by using one of the commands below:
 | `ex:preloaddir`         | Runs example preloading using `ENV_DIR`.                         |
 | `ex:override`           | Runs example overrides Envs in `process.env`.                    |
 | `ex:strpaths`           | Runs example using string paths.                                 |
-| `examples`              | Runs all examples.                                               |
